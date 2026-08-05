@@ -237,12 +237,12 @@ document.addEventListener('DOMContentLoaded', () => {
   /* ---------- Instagram video lightbox ---------- */
   // Replace these src paths with your actual exported reel .mp4 files.
   const instaVideos = [
-    'media/insta/insta-1.mp4',
-    'media/insta/insta-2.mp4',
-    'media/insta/insta-3.mp4',
-    'media/insta/insta-4.mp4',
-    'media/insta/insta-5.mp4',
-    'media/insta/insta-6.mp4'
+   'media/insta/instagram-1.mp4',
+    'media/insta/instagram-2.mp4',
+    'media/insta/instagram-3.mp4',
+    'media/insta/instagram-4.mp4',
+    'media/insta/instagram-5.mp4',
+    'media/insta/instagram-6.mp4'
   ];
   const instaThumbs = document.querySelectorAll('.insta-thumb');
   const instaLightbox = document.getElementById('instaLightbox');
